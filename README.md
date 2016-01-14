@@ -1,6 +1,6 @@
 # first-class-shapes-demo
 
-A Quil sketch designed to ... well, that part is up to you.
+A Quil demo with fun-mode and first-class shapes.  
 
 ## Usage
 
